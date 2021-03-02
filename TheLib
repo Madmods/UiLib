@@ -49,7 +49,7 @@ end
 
 
 local themes = {
-        SchemeColor = Color3.fromRGB(27, 42, 53),
+        SchemeColor = Color3.fromRGB(109, 110, 108),
         Background = Color3.fromRGB(27, 42, 53),
         Header = Color3.fromRGB(27, 42, 53),
         TextColor = Color3.fromRGB(242, 243, 243),
